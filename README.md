@@ -130,14 +130,14 @@ The following KPIs were calculated:
 Employee-Productivity-Analysis/
 │
 ├── Images/
-├── Employee Productivity Feature Engineered.csv
 ├── Cleaned Employee Productivity Dataset.csv
-├── 
+├── Employee Productivity Feature Engineered.csv
+├── Employee_Productivity_Analysis.ipynb
 ├── Employee_Productivity_KPI_Summary.csv
+├── Employees Final Dataset.csv
 ├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+├── employee productivity analysis.py
+└── requirements.txt
 ```
 
 ---
@@ -168,5 +168,3 @@ This project demonstrates how Python can be used to transform raw employee data 
 
 
 ---
-
-## ⭐ If you found this project useful, please consider giving it a Star!
